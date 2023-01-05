@@ -1,0 +1,5 @@
+.Layout{
+    display: grid;
+    grid-template-columns: 275px auto 300px; 
+    margin: 0 auto;
+}
