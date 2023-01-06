@@ -27,6 +27,12 @@ input {
     box-shadow: 0 0 20px rgba(104, 85, 224, 0.2);
 }
 
+.Rem{
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+}
+
 input[type=checkbox] {
     -webkit-appearance: checkbox;
     -moz-appearance: checkbox;
@@ -35,9 +41,7 @@ input[type=checkbox] {
     width: 10px;
 }
 
-label {
-    font-size: 13px;
-}
+
 
 button {
     text-align: center;
@@ -48,7 +52,7 @@ button {
     font-weight: 600;
     width: 100%;
     color: aliceblue;
-    padding: 10px 0;
+    padding:10px 0;
     box-shadow: 0 0 20px rgba(104, 85, 224, 0.2);
 }
 
@@ -72,4 +76,9 @@ button:hover {
 .google {
     color: white;
     background-color: rgba(104, 85, 224, 1);
+}
+
+.signup{
+    align-items: center;
+    font-size: 13px;
 }
