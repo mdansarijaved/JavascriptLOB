@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "vite": "^4.0.4"
+  },
+  "name": "javascriptlob",
+  "description": "\"Everything in JavaScript\r     happens inside an\r     Execution Context\"",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdansarijaved/JavascriptLOB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdansarijaved/JavascriptLOB/issues"
+  },
+  "homepage": "https://github.com/mdansarijaved/JavascriptLOB#readme"
+}
