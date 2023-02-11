@@ -9,7 +9,7 @@ getMilk(bucks);
 
 function buyMilk(money){
     bottles = money/1.5;
-    console.log("Get me "+ Math.floor(bottles)+" of milk.")
+    console.log("Get me "+ Math.floor(bottles) +" of milk.")
     return money % 1.5;
 }
 
