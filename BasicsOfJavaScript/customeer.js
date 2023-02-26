@@ -1,5 +1,8 @@
-const person = {
-    custName : "javed" 
+export const person = {
+    custName : "javed", 
+    age : 18,
+    university : "chandigarh university",
+
 }
 
-export default person ; 
+ 

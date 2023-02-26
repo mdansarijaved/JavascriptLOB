@@ -1,4 +1,9 @@
 //  import and export modules
 
-import {sell} from './sell.js'; 
-sell(); 
+import * as bundle from './sell.js'; 
+import * as csbundle from './customeer.js'
+
+console.log(csbundle.person.age);
+
+console.log(bundle.data); 
+bundle.sell(); 
