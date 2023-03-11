@@ -1,9 +1,14 @@
 // Reference (Array , object) and Primitive type(string and number)
+
+
+//primitive type 
 let a = 10 ; 
 let b = a; 
 b = 9; 
 console.log(a,b); 
 
+
+// reference type 
 
 let person = {
     myname : "Javed"
